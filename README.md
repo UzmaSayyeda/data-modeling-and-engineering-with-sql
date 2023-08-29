@@ -38,10 +38,15 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 ### Data modeling
 ![ERD](/EmployeeSQL/module_9%20-%20sql_challenge.png)
+![ERD](/EmployeeSQL/quickdbd.png)
 
 ### Data Engineering
-[Data Engineering](/EmployeeSQL/modeling_eng.sql)
+The sql script for creating tables can be found here:
+[Data Engineering](/EmployeeSQL/modeling_eng.sql)  
+The data modeling was done with the help of QuickDBD, each table has a primary key and includes appropriate data type and limit. 
+
 
 ### Data Analysis
-[Data Analysis](/EmployeeSQL/Data_Analysis.sql)
+Data analysis file can be found here: [Data Analysis](/EmployeeSQL/Data_Analysis.sql)  
+
 
